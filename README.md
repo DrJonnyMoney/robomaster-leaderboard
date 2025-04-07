@@ -1,7 +1,7 @@
 # 🤖 Robomaster Rush & Find Leaderboard
 
 A web application for tracking participants in the **Robomaster Rush & Find** challenge, where robots navigate a maze to scan visual markers in a timed competition.
-
+![Leaderboard Screenshot](./leaderboard.png)
 ---
 
 ## 📝 Overview
