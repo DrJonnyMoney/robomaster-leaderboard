@@ -77,6 +77,8 @@ npm install
 npm run dev           # For development
 npm run build         # For production
 ```
+
+---
 # 📁 Project Structure
 ```php
 robotics-leaderboard/
@@ -91,3 +93,24 @@ robotics-leaderboard/
 │   └── package.json               # NPM configuration
 └── start_leaderboard.bat          # Quick start batch file
 ```
+
+---
+
+# 🧑‍🎓 Usage
+## ➕ Adding Participants
+* Click the "Add New Challenger" button
+* Enter the participant's name and school
+* Select an avatar
+* Enter the completion time (in seconds)
+* Click "Save"
+
+## 🏆 Managing the Leaderboard
+* Automatically sorts by fastest times
+* Displays up to 15 top participants
+* Special visual effects for the top 3
+* Use the 🗑️ trash icon to delete entries
+
+---
+
+# 📄 License
+MIT License
